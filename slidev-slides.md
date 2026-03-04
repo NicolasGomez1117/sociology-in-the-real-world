@@ -225,9 +225,7 @@ class: sources-slide
 
 - Codex extension in VS Code
 - Slidev for the presentation deck
-- Local p5.js prototype for the network-node visual system
-- Likely hosting: GitHub Pages for simplicity, with Vercel as the clean fallback if needed
-
+- GitHub Pages
 </div>
 
 <style>
