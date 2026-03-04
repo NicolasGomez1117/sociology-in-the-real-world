@@ -27,7 +27,7 @@ SOC1010
 <!--
 My topic is technology, legitimacy, and institutional lag in the digital age.
 
-I am asking what authority looks like after digital life has already changed how people orient themselves.
+I am interested in what authority and governance should look like now that technology is changing the way people socialize.
 -->
 
 ---
@@ -185,7 +185,7 @@ layout: default
 </div>
 
 <!--
-The goal of this talk is not to reject institutions or celebrate technology.
+The goal of this presentation is not to reject institutions or celebrate technology.
 
 Institutions still play an important role.
 
