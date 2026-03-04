@@ -119,9 +119,8 @@ My mom is an OB-GYN with decades of experience.
 She was helping train AI models using that experience.
 
 At the same time,
-many of my friends are pre-med students
-spending years studying the reasoning
-that those same systems are starting to perform.
+many of my peers were spending hundreds of hours studying for exams
+based on the same kinds of reasoning my mom was helping encode into AI systems.
 
 That contrast raised a sociological question for me:
 
