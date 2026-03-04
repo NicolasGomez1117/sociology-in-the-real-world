@@ -1,0 +1,10 @@
+{
+  "name": "soc1010-sociology-in-the-real-world-slides",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "@slidev/cli": "^52.14.1",
+    "@slidev/theme-default": "^0.25.0",
+    "p5": "^2.2.2"
+  }
+}
