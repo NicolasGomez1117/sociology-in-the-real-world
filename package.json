@@ -2,6 +2,10 @@
   "name": "soc1010-sociology-in-the-real-world-slides",
   "private": true,
   "version": "0.0.1",
+  "scripts": {
+    "dev": "slidev slidev-slides.md",
+    "build": "slidev build slidev-slides.md --base /sociology-in-the-real-world/"
+  },
   "dependencies": {
     "@slidev/cli": "^52.14.1",
     "@slidev/theme-default": "^0.25.0",
