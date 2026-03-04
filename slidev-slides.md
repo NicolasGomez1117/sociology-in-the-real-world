@@ -92,7 +92,7 @@ But institutions like schools, workplaces,
 and professional training systems
 still operate on assumptions built for an earlier environment.
 
-This mismatch is what sociologists call cultural lag.
+In sociological terms, this mismatch can be described as cultural lag.
 -->
 
 ---
@@ -116,11 +116,11 @@ During my gap year I saw something that stuck with me.
 
 My mom is an OB-GYN with decades of experience.
 
-She was helping train AI models using that experience.
+She recently got a new job training AI models leveraging that experience.
 
 At the same time,
 many of my peers were spending hundreds of hours studying for exams
-based on the same kinds of reasoning my mom was helping encode into AI systems.
+testing the same reasoning my mom was helping encode into AI systems.
 
 That contrast raised a sociological question for me:
 
@@ -164,11 +164,11 @@ layout: default
 <!--
 Sociology helps explain this through three ideas.
 
-Socialization shapes expectations about how the world works.
+First, socialization shapes what people come to expect from the world. For example, many students are taught from a young age that college is the primary path to success.
 
-Cultural lag describes how institutions change more slowly than the environments people are socialized in.
+Second, cultural lag helps explain what happens when institutions change more slowly than the environments people are socialized in. In my example, my mom was using digital networks and remote work to help train AI systems, while many of my peers were still being trained through older institutional pathways.
 
-And the sociological imagination reminds us that what feels like a personal struggle may actually reflect a mismatch between individuals and institutions.
+Third, the sociological imagination reminds us that what feels like a personal struggle may also reflect a broader structural mismatch between individuals and institutions. In that sense, some of what gets described as a generational failure may also reflect a changing social environment, not just individual shortcomings.
 -->
 
 ---
