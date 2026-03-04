@@ -104,7 +104,7 @@ layout: default
 <div style="width: 180px; height: 2px; background: rgba(148,163,184,0.42); margin-top: 0.6rem;"></div>
 <div style="margin-top: 1rem; max-width: 1100px;">
   <p style="margin: 0 0 0.8rem; font-size: 0.96rem; line-height: 1.3;">During a gap year, I watched my mom help train AI systems using knowledge built over years of medical practice experience.</p>
-  <p style="margin: 0 0 1rem; font-size: 0.96rem; line-height: 1.3;">At the same time, many of my peers were still spending years studying the kinds of reasoning those same systems are starting to perform.</p>
+  <p style="margin: 0 0 1rem; font-size: 0.96rem; line-height: 1.3;">At the same time, many of my peers were spending hundreds of hours studying for exams that those same systems are now being trained to perform.</p>
   <p style="margin: 0 0 0.35rem; font-size: 0.8rem; line-height: 1.22; color: rgba(226,232,240,0.76);">The sociological question:</p>
   <div style="font-size: 0.96rem; line-height: 1.32;">
     If technology changes how expertise is stored and distributed, how do institutions decide which forms of training and authority still count?
